@@ -5,7 +5,7 @@ title: About
 
 <p>
 熱情是可以寫出來的嗎？<br>
-greenocean [at] gmail.com<br>
+cookrottenmushroom [at] gmail.com<br>
 </p>
 
 ://
