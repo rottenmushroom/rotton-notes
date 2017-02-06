@@ -3,6 +3,13 @@ layout: page
 title: About
 ---
 
+<p>
+熱情是可以寫出來的嗎？<br>
+greenocean [at] gmail.com<br>
+</p>
+
+://
+
 北歐是我們的死亡終站 - My Little Airport
 
 這個抑鬱的星期天 我們在討論自殺的方法
