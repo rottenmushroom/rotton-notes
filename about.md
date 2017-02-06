@@ -3,10 +3,25 @@ layout: page
 title: About
 ---
 
-Hello.
+北歐是我們的死亡終站 - My Little Airport
 
-The main purpose of this theme is to be as simple as it could be, so you can focus on writing your stuffs. This is your About page. You may describe about yourself here; who you are, what are you currently doing, share some of your projects, your social links and how people can contact you, etc.
+這個抑鬱的星期天 我們在討論自殺的方法
+你說嗑藥不錯
+我說萬一死不去還要洗胃很辛苦
+割脈也太痛　不能接受
+燒炭　你我都認同最舒適的方
+但未免太消極可悲
+你說不如凍死　穿汗衣在北極凍死
+我滿心歡喜　提議先到芬蘭旅遊
+然後穿汗衣凍死 
+你說其實可以先環遊世界　然後到芬蘭凍死
+好主意　我說北歐是我們的死亡終站
+很浪漫的想法
 
-**Just write thing that matters..**
-
-Enjoy!
+你問打算何時進行
+不如就二十九歲　活在永遠的二十九歲
+我說時間無多　要開始儲錢
+為了我們的計劃
+你說你有積蓄　可以資助我
+我感動地　幻想
+二十九歲　我們一起到北歐去
